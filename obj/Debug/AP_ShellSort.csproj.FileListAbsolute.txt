@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_ShellSort\AP_ShellSort\bin\Debug\AP_ShellSort.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_ShellSort\AP_ShellSort\bin\Debug\AP_ShellSort.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_ShellSort\AP_ShellSort\bin\Debug\AP_ShellSort.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_ShellSort\AP_ShellSort\obj\Debug\AP_ShellSort.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_ShellSort\AP_ShellSort\obj\Debug\AP_ShellSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_ShellSort\AP_ShellSort\obj\Debug\AP_ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_ShellSort\AP_ShellSort\obj\Debug\AP_ShellSort.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_ShellSort\AP_ShellSort\obj\Debug\AP_ShellSort.pdb
